@@ -1,0 +1,17 @@
+{
+    "projectName": "orgdata",
+    "username": "anagha.gowda@cloudlendinginc.com",
+    "id": "d18eae30-5810-11e8-80f8-a515eb10d11e",
+    "namespace": "demoname",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "C:\\Users\\Anagha\\Desktop\\CLS_programs",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}
